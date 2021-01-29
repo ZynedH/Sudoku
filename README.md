@@ -1,0 +1,2 @@
+# Sudoku
+method of Sudoku
