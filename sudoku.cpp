@@ -1,5 +1,5 @@
 #include<iostream>
-#include"sudoku.h"
+
 #include<windows.h>
 using namespace std;
 #define VALUEINIT 223092870;
