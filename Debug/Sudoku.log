@@ -1,0 +1,3 @@
+﻿  sudoku.cpp
+D:\key\大三上\Sudoku\Sudoku\sudoku.cpp(449): warning C4715: “get_gcd”: 不是所有的控件路径都返回值
+  Sudoku.vcxproj -> D:\key\大三上\Sudoku\Sudoku\Debug\Sudoku.exe
